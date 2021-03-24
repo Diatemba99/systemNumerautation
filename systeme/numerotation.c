@@ -10,7 +10,6 @@ void point (char x[]);
 int main(int argc, char const *argv[])
 {
   int i,j;
-
   int BINAIRE_DECIMAL,BINAIRE_OCTAL,BINAIRE_HEXADECIMAL;
   int DECIMAL_OCTAL,DECIMAL_HEXADECIMAL,NOMBRE_FRACTIONNAIRE;
   int CODAGE,DECODAGE,TRANSCODAGE;
