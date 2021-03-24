@@ -24,10 +24,10 @@ int main(int argc, char const *argv[])
     }
 
         puts("\n");
-
         puts("\n");
         puts("\n");
-    for(i=0;i<1;i++)
+  
+  for(i=0;i<1;i++)
     {
 
         printf("\t"); printf("\t"); printf("\t"); printf("\t"); printf("\t"); printf("010101010101\n");
