@@ -56,7 +56,6 @@ int main(int argc, char const *argv[])
     }
     system("cls");
     puts("\n");
-
     puts("\n");
 
     puts("\n");
