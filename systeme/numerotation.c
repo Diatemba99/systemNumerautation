@@ -7,6 +7,7 @@
 #include<math.h>
 #include<windows.h>
 void point (char x[]);
+
 int main(int argc, char const *argv[])
 {
   int i,j;
@@ -15,7 +16,6 @@ int main(int argc, char const *argv[])
   int CODAGE,DECODAGE,TRANSCODAGE;
   int RETOUR,DECIMAL_BINAIRE,OCTAL_BINAIRE,HEXADECIMAL_BINAIRE;
   int beug,x,y,z;
-
 
 
     for(i=0;i<1000;i++)
