@@ -127,7 +127,6 @@ int main(int argc, char const *argv[])
 puts("Chargement...");
    for(i=0;i<10;i++)
    {
-
         printf("000\t");
         printf("000\t");
         printf("000\t");
