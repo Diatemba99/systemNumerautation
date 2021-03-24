@@ -51,8 +51,6 @@ int main(int argc, char const *argv[])
         printf("\t"); printf("\t"); printf("\t"); printf("\t"); printf("\t"); printf("010101001001\n");
              Sleep(1000);
             system("cls");
-
-
     }
     system("cls");
     puts("\n");
