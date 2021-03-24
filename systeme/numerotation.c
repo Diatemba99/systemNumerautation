@@ -129,11 +129,8 @@ puts("Chargement...");
    {
 
         printf("000\t");
-
         printf("000\t");
-
         printf("000\t");
-
         Sleep(1000);
    }
 
