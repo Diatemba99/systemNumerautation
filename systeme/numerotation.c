@@ -134,7 +134,6 @@ puts("Chargement...");
    }
 
    system("pause");
-
    system("cls");
 
    for(i=0;i<1;i++)
